@@ -15,7 +15,7 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-           <itemInstances>
+         <itemInstances>
             <componentInstance>
             <componentName>force:relatedListContainer</componentName>
            </componentInstance>
@@ -35,7 +35,7 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-           <itemInstances>
+         <itemInstances>
             <componentInstance>
             <componentInstanceProperties>
                 <name>body</name>
@@ -48,7 +48,7 @@
             <componentName>flexipage:tab</componentName>
            </componentInstance>
 </itemInstances>
-           <itemInstances>
+         <itemInstances>
             <componentInstance>
             <componentInstanceProperties>
                 <name>active</name>
@@ -104,7 +104,7 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-           <itemInstances>
+         <itemInstances>
             <componentInstance>
             <componentInstanceProperties>
                 <name>active</name>
